@@ -7,7 +7,7 @@ def gradient_descent(
         theta_0,
         cost,
         cost_derivate,
-        lamda = 3,
+        lamda = 2,
         alpha=0.01,
         treshold=0.0001,
         max_iter=10000):
